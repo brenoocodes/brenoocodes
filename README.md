@@ -13,11 +13,4 @@ Olá! Meu nome é Breno, e este é o meu portfólio de projetos, onde compartilh
 
 - ![React Native](https://img.shields.io/badge/React_Native-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white): Construção de aplicativos móveis nativos para iOS e Android.
 - ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB): Desenvolvimento de interfaces web dinâmicas e escaláveis.
-- ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white): Criação de aplicações web com renderização server-side e client-side.
-
-## Projetos 
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=brenoocodes&show_icons=true&theme=dracula&count_private=true)
-
-
-Obrigado por visitar o meu portfólio!
+- ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white): Criação de aplicações web com renderização server-side e client-side
