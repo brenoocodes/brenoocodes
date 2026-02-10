@@ -1,16 +1,49 @@
-# Bem-vindo ao Meu Portfólio de Projetos
+# Portfólio de Projetos em Data Science
 
-Olá! Meu nome é Breno, e este é o meu portfólio de projetos, onde compartilho minhas experiências e trabalhos desenvolvidos ao longo da minha jornada como desenvolvedor de software. Aqui, você encontrará uma variedade de projetos, desde aplicações back-end em Flask e FastAPI até interfaces front-end em React Native, React e Next.js.
+Olá! Meu nome é **Breno**, e este repositório reúne projetos voltados à **análise de dados, visualização e machine learning**, desenvolvidos com foco em soluções práticas e reprodutíveis. Os projetos exploram desde o tratamento e exploração de dados até a construção e avaliação de modelos preditivos.
+
+O objetivo deste portfólio é demonstrar domínio das principais ferramentas do ecossistema Python para Data Science, bem como boas práticas de análise, organização de código e interpretação de resultados.
 
 ## Tecnologias Principais
 
-### Back-end
+### Manipulação e Análise de Dados
 
-- ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white): Desenvolvimento de aplicações web rápidas e flexíveis em Python.
-- ![FastAPI](https://img.shields.io/badge/FastAPI-%2300D68F.svg?style=for-the-badge&logo=fastapi&logoColor=white): Criação de APIs modernas e de alto desempenho com Python.
+* **Pandas**
+  Utilizado para limpeza, transformação e análise exploratória de dados, incluindo:
 
-### Front-end
+  * Tratamento de dados faltantes
+  * Engenharia de features
+  * Agregações e análises estatísticas
+  * Integração de múltiplas fontes de dados
 
-- ![React Native](https://img.shields.io/badge/React_Native-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white): Construção de aplicativos móveis nativos para iOS e Android.
-- ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB): Desenvolvimento de interfaces web dinâmicas e escaláveis.
-- ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white): Criação de aplicações web com renderização server-side e client-side
+### Visualização de Dados
+
+* **Plotly**
+  Criação de visualizações interativas para exploração e apresentação de insights, como:
+
+  * Gráficos de linhas, barras e dispersão
+  * Dashboards interativos
+  * Visualizações orientadas a análise exploratória (EDA)
+  * Apoio à comunicação de resultados para públicos técnicos e não técnicos
+
+### Machine Learning
+
+* **Scikit-learn**
+  Desenvolvimento e avaliação de modelos de aprendizado de máquina, incluindo:
+
+  * Regressão e classificação
+  * Algoritmos supervisionados e não supervisionados
+  * Pipeline de pré-processamento
+  * Validação cruzada e métricas de desempenho
+  * Ajuste de hiperparâmetros
+
+## Objetivos do Portfólio
+
+* Demonstrar capacidade analítica e pensamento orientado a dados
+* Aplicar técnicas de Data Science a problemas reais
+* Evidenciar clareza na comunicação de resultados
+* Seguir boas práticas de versionamento e organização de projetos
+
+## Contato
+
+Caso queira discutir algum projeto, trocar ideias ou colaborar, fique à vontade para entrar em contato.
